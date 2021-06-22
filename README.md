@@ -1,2 +1,2 @@
 # HTML
-HTML theorem
+HTML summary [incomplete]
